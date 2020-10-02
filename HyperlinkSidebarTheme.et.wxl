@@ -72,5 +72,4 @@
   <String Id="certsynchronizer">Kustuta pärast ID-kaardi välja võtmist sertifikaadid ka arvutist</String>
   <String Id="edgeplugin">Edge Chromium allkirjastamise tugi</String>
   <String Id="edgepluginpolicy">Edge Chromium allkirjastamise tugi aktiveeritakse automaatselt</String>
-  <String Id="SupportedWindows">Kasutate mittetoetatud operatsioonisüsteemi. ID-tarkvara paigaldamiseks on vaja Windows 8.1 või uuemat operatsioonisüsteemi.</String>
 </WixLocalization>

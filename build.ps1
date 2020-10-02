@@ -5,7 +5,7 @@ param(
    [string]$insignia = "$env:WIX\bin\insignia.exe",
    [string]$msiversion = "3.12.0.0",
    [string]$url = "https://installer.id.ee/media/windows/{2}",
-   [string]$filename = "Open-EID-$msiversion$env:VER_SUFFIX",
+   [string]$filename = "Open-EID-$msiversion-win7$env:VER_SUFFIX",
    [string]$vcredist = "vcredist",
    [string]$updater = "ID-Updater",
    [string]$qdigidoc4 = "Digidoc4_Client",

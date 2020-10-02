@@ -72,5 +72,4 @@
   <String Id="certsynchronizer">Delete the ID-card certificates from the computer upon removing the card</String>
   <String Id="edgeplugin">Edge Chromium signing support</String>
   <String Id="edgepluginpolicy">Edge Chromium signing plug-in will be activated automatically</String>
-  <String Id="SupportedWindows">You are using an unsupported operating system. You'll need Windows 8.1 or later to successfully install ID-software.</String>
 </WixLocalization>
